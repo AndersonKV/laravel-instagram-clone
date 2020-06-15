@@ -30,14 +30,15 @@ Projeto feito utilizando laravel e mysql
     </ul>
 </ul>
 
-</hr>
+<br><br>
+---------------------------------------------------------------------------------------------------------------------
 <h4>Para rodar o projeto basta baixar os arquivos, na pasta raiz e no terminal digite <b>composer install.</b><br>
-    Eepois <b>npm install</b><br> e em .env digite o nome da sua tabela da base de dados.<b><br>
+    E depois <b>npm install</b><br> e em .env digite o nome da sua tabela da base de dados.<b><br>
     No meu caso esta como instagram, depois no terminal "php artisan migrate" <b>
     E pronto tudo foi finalizado.
     </h4>
-    
-   <br><br><br>
+    <hr>
+---------------------------------------------------------------------------------------------------------------------
 <p align="center"><img src="public/assets/1.jpg" width="800"></p>
 <p align="center"><img src="public/assets/2.jpg" width="800"></p>
 <p align="center"><img src="public/assets/3.jpg" width="800"></p>
