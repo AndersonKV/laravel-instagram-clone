@@ -1,5 +1,5 @@
 
-Projeto feito utilizando laravel e mysql com intuito de estudar e aprender mais a ferramenta
+Projeto feito utilizando laravel, mysql, javascript e sass
 
 <b>Features</b>
 <ul>
