@@ -34,7 +34,7 @@ Projeto feito utilizando laravel e mysql com intuito de estudar e aprender mais 
 
 <h4>Para rodar o projeto basta baixar os arquivos, na pasta raiz e no terminal digite <b>composer install.</b><br>
     E depois <b>npm install</b> e em .env digite o nome da sua tabela da base de dados.<b><br>
-    No meu caso esta como instagram, depois no terminal "php artisan migrate" <b>
+    No meu caso esta como instagram, depois no terminal "php artisan migrate" <br>
     E pronto tudo foi finalizado. Você pode criar contas, adicionar fotos e testar a vontade
     </h4>
     <hr>
