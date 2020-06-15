@@ -1,0 +1,103 @@
+@media (min-width: 540px) {
+    .footer {
+        // padding: 5px;
+        // position: fixed;
+        // padding: 10px;
+        // left: 0;
+        // bottom: 10;
+        // width: 100%;
+
+        .footer__wrapper {
+            display: grid;
+            grid-template-columns: auto auto;
+            align-items: center;
+            padding: 0 30px;
+            padding-top: 20px;
+            padding-bottom: 20px;
+
+            max-width: 1140px;
+            margin: 0 auto;
+            text-align: center;
+            font-weight: 400;
+            color: #007bff;
+
+            .footer__wrapper--nav__left {
+                display: flex;
+                flex-direction: row;
+
+                ul {
+                    display: grid;
+                    grid-template-columns: repeat(4, 1fr);
+
+                    li {
+                        padding: 5px;
+                        cursor: pointer;
+                    }
+                }
+            }
+
+            .footer__wrapper--nav__right {
+                display: flex;
+                flex-direction: row-reverse;
+                ul {
+                    display: grid;
+
+                    .copyright {
+                        color: gray;
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media (min-width: 768px) {
+    .footer {
+        // padding: 5px;
+        // position: fixed;
+        // padding: 10px;
+        // left: 0;
+        // bottom: 10;
+        // width: 100%;
+
+        .footer__wrapper {
+            display: grid;
+            grid-template-columns: auto auto;
+            align-items: center;
+            padding: 0 30px;
+            padding-top: 20px;
+            padding-bottom: 20px;
+
+            max-width: 1140px;
+            margin: 0 auto;
+            text-align: center;
+            font-weight: 400;
+            color: #007bff;
+
+            .footer__wrapper--nav__left {
+                display: flex;
+                flex-direction: row;
+
+                ul {
+                    display: grid;
+                    grid-template-columns: repeat(7, 1fr);
+
+                    li {
+                    }
+                }
+            }
+
+            .footer__wrapper--nav__right {
+                display: flex;
+                flex-direction: row-reverse;
+                ul {
+                    display: grid;
+
+                    .copyright {
+                        color: gray;
+                    }
+                }
+            }
+        }
+    }
+}
