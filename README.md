@@ -1,5 +1,5 @@
 
-Projeto feito utilizando laravel e mysql
+Projeto feito utilizando laravel e mysql com intuito de estudar e aprender mais a ferramenta
 
 <b>Features</b>
 <ul>
@@ -35,7 +35,7 @@ Projeto feito utilizando laravel e mysql
 <h4>Para rodar o projeto basta baixar os arquivos, na pasta raiz e no terminal digite <b>composer install.</b><br>
     E depois <b>npm install</b> e em .env digite o nome da sua tabela da base de dados.<b><br>
     No meu caso esta como instagram, depois no terminal "php artisan migrate" <b>
-    E pronto tudo foi finalizado.
+    E pronto tudo foi finalizado. Você pode criar contas, adicionar fotos e testar a vontade
     </h4>
     <hr>
 <br><br>
